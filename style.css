@@ -465,7 +465,6 @@
 
     .aboutMe-container {
         width:75%;
-        line-height:1.5;
     }
     
 }
@@ -485,6 +484,9 @@
 
     .services-card {
         width: 300px;
+    }
+    .aboutMe-container {
+        width:50%;
     }
 }
 
