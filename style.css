@@ -379,7 +379,7 @@
     align-items: center;
     max-width: 900px;
     font-weight: 500;
-    line-height: 1.5rem;
+    line-height: 1.5;
     text-align: center;
 }
 
@@ -462,12 +462,17 @@
         font-size: 2rem;
         margin-top: 5rem;
     }
+
+    .aboutMe-container {
+        width:75%;
+        line-height:1.5;
+    }
     
 }
 
 @media screen and (max-width: 480px){
     .services{
-        margin-bottom: 10rem;
+        margin-bottom: 5rem;
     }
     
     .services h1{
