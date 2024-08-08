@@ -197,7 +197,7 @@
     align-items: center;
     justify-self: center;
     margin: 0 auto;
-    height: 90vh;
+    height: 80vh;
     background-color: white;
     z-index: 1;
     width: 100%;
@@ -455,7 +455,7 @@
 
 @media screen and (max-width: 960px){
     .services{
-        height: 1600px;
+        height: 1800px;
     }
 
     .services h1{
