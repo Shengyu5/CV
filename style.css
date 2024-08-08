@@ -453,7 +453,7 @@
     cursor: pointer;
 }
 
-@media screen and (max-width: 960px){
+@media screen and (max-width: 900px){
     .services{
         height: 1500px;
     }
