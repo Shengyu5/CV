@@ -968,6 +968,22 @@
     height: 300px;
 }
 
+@media screen and (max-width: 1250px){
+
+    .img_project {
+        max-width: 0;
+        height:0;
+    }
+    .project_title {
+        font-size:1.5rem;
+        margin-bottom: 1rem;
+    }
+    .project_text {
+        line-height:2;
+    }
+
+}
+
 
 /* Contact */
 
@@ -1113,4 +1129,26 @@ textarea:valid + label{
 
 .contact_logo i{
     color: white;
+}
+
+@media screen and (max-width: 960px){
+
+    .contact_btext {
+        font-size: 2rem;
+    }
+
+    .contact_stext {
+        font-size: 1rem;
+    }
+
+    .contact_col {
+        width: 75%;
+    }
+
+}
+
+@media screen and (max-width: 480px){
+    .contact_col {
+        width:100%;
+    }
 }
