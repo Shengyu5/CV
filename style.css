@@ -398,7 +398,7 @@
         to bottom, 
         rgba(0,0,0,0) 0%,
         rgba(17,17,17,0.6) 100%),
-        url('images/proj.JPG');
+        url('./images/proj.JPG');
     background-size: cover;
     position: relative;
     color: white;
@@ -414,7 +414,7 @@
         rgba(0, 0, 0, 0) 0%,
         rgba(17, 17, 17, 0.9) 100%
       ),
-      url('images/aca1.JPG');
+      url('./images/aca1.JPG');
     color:white;
 }
 
